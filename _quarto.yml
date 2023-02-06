@@ -5,21 +5,21 @@ website:
   title: "First Website"
   navbar:
     left:
-      -href: index.qmd
+      - href: index.qmd
         text: Home
-      -href: about.qmd
+      - href: about.qmd
         text: About
-      -sidebar:sources
-      -sidebar:interactive
+      - sidebar:sources
+      - sidebar:interactive
   sidebar:
-    -id: sources
+    - id: sources
       title: "Sources"
       style: "floating"
       background: "#ffffff"
       collapse-level: 2
       contents:
-        -source-1.qmd
-        -source-2.qmd
+        - source-1.qmd
+        - source-2.qmd
 
 format:
   html:
