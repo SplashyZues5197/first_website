@@ -1,9 +1,20 @@
 ---
 title: "About"
 ---
+## About Me
+"My name is **Anish**, and i am going to Metea Valley High School. 
 
-About this site
+## About the Project
+*My project, The Title of My Project, explores chess data*
 
-```{r}
-1 + 1
-```
+### Goals
+- Find the best openings
+- Find the win rate of some few openings
+  + carokann
+
+"This is data science"
+\
+
+~ Preceptor
+
+[“Kane’s Free High School Data Science Bootcamp”](https://bootcamp.davidkane.info)
